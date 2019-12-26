@@ -1,0 +1,45 @@
+body{
+	background-color:grey;
+	}	
+h1{
+	color:pink;
+	text-align:center;
+
+}
+h2{
+	color:black;
+	margin-left: 100px;
+}
+.im1{
+	
+	width:280px;
+	margin-left: 100px;
+	border:solid;
+	border-color:pink;
+	border-width:2px;
+	}
+.im2{
+
+	width:280px;	
+	margin-left: 100px;
+	border:solid;
+	border-color:pink;
+	border-width:2px;
+	}
+img{
+
+	width:280px;	
+	margin-left: 100px;
+	border:solid;
+	border-color:pink;
+	border-width:2px;
+	}
+.rotation90 {
+   -webkit-transform: rotate(90deg);
+   -moz-transform: rotate(90deg);
+   -ms-transform: rotate(90deg);
+   -o-transform: rotate(90deg);
+   transform: rotate(90deg);
+   margin-top:44px;
+   margin-left:40px;
+ }
